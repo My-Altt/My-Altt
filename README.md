@@ -9,5 +9,5 @@
 
   <div align="center">
   <h1>My Website: <a href="https://alexiscool.net">alexiscool.net</a></h1>
-<h2>(Under Work)</h2> 
+<h2>(In reality it does not work)</h2> 
 <h1>Also: <a href="https://My-Altt.github.io">My-Altt.github.io</a></h1>
